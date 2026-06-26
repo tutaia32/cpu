@@ -1,4 +1,4 @@
-# CHECK HIGHEST CPU USAGE 
+# CHECK HIGHEST CPU USAGE ( ONLY FOR PTERODACTYL )
 ```
 wget -qO cpucek https://raw.githubusercontent.com/tutaia32/cpu/main/cpucek.sh && chmod +x cpucek && ./cpucek
 ```
